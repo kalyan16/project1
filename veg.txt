@@ -1,0 +1,4 @@
+vegetable application 
+counter no
+bill number
+stock order
